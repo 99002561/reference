@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1601012744 source:c:\users\training\desktop\c++\library\main.cpp
+	"Library.h"
+	"book.h"
+	<iostream>
+
+1601005199 c:\users\training\desktop\c++\library\library.h
+	<list>
+	"book.h"
+	<string>
+	<iostream>
+	<iterator>
+
+1601005259 c:\users\training\desktop\c++\library\book.h
+	<string>
+	<iostream>
+
